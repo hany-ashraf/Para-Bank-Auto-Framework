@@ -6,11 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="1d097913-2d20-4a48-b812-1105d325ec27" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/test-execution.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test-execution.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/test-failures.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test-failures.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/test-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/recordings/ParaBank Test Cases!-2025-10-18 18.12.16.avi" beforeDir="false" afterPath="$PROJECT_DIR$/recordings/ParaBank Test Cases!-2025-10-18 18.12.16.avi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/TestData/usersData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestData/usersData.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,25 +30,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/HomeScenarios.xml.executor": "Run",
-    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/LoginScenarios.xml.executor": "Run",
-    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/RegisterationScenarios.xml.executor": "Run",
-    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/e2eScenarios.xml.executor": "Run",
-    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/testng.xml.executor": "Run",
-    "TestNG.TC03_RegisterationPage.executor": "Run",
-    "TestNG.TC03_RegisterationPage.validateCreationNewUser_P.executor": "Run",
-    "TestNG.TC04_e2e.validateTransaction_P.executor": "Run",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank - Copy",
-    "onboarding.tips.debug.path": "C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/main/java/com/factory/Main.java",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/HomeScenarios.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/LoginScenarios.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/RegisterationScenarios.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/e2eScenarios.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/testng.xml.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC03_RegisterationPage.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC03_RegisterationPage.validateCreationNewUser_P.executor&quot;: &quot;Run&quot;,
+    &quot;TestNG.TC04_e2e.validateTransaction_P.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/main/java/com/factory/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Shady Automation Course\Projects During Live Sessions\Sesion_3\para-bank" />
