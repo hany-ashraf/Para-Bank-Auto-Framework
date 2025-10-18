@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Running positive scenarios for login feature">
+
+    <parameter name="browsername" value=""/>
+
+    <parameter name="URL"
+               value="https://parabank.parasoft.com/parabank/register.htm;jsessionid=D106E0E97E3414C0A3B14058177C9D1B"/>
+    <test verbose="3" preserve-order="true" name="Check about create New account">
+        <classes>
+            <class name="testcases.TC04_e2e">
+                <methods>
+                    <include name="validateOpenNewAccount_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="3" preserve-order="true" name="Create New Transaction to another account">
+        <classes>
+            <class name="testcases.TC04_e2e">
+                <methods>
+                    <include name="validateTransaction_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="3" preserve-order="true" name="Update Contact Info !">
+        <classes>
+            <class name="testcases.TC04_e2e">
+                <methods>
+                    <include name="validateUpdateContactInfo_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+    <test verbose="3" preserve-order="true" name="Logout feature !">
+        <classes>
+            <class name="testcases.TC04_e2e">
+                <methods>
+                    <include name="validateLogoutFeature_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

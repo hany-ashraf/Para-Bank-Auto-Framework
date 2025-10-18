@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Running positive scenarios on main list of home page">
+    <parameter name="browsername" value=""/>
+    <parameter name="URL" value="https://parabank.parasoft.com/parabank/register.htm;jsessionid=D106E0E97E3414C0A3B14058177C9D1B"/>
+    <test verbose="3" preserve-order="true" name="loop in all main list of home page">
+        <classes>
+            <class name="testcases.TC01_RegisterationPage">
+                <methods>
+                    <include name="validateCreationNewUser_P"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+</suite>

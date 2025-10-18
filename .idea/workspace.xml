@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1d097913-2d20-4a48-b812-1105d325ec27" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/test-execution.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test-execution.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/test-failures.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test-failures.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/test-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/logs/test-report.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/recordings/ParaBank Test Cases!-2025-10-18 18.12.16.avi" beforeDir="false" afterPath="$PROJECT_DIR$/recordings/ParaBank Test Cases!-2025-10-18 18.12.16.avi" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/TestData/usersData.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/TestData/usersData.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="33A1klf8tH2fZKuvE8ZUwiYDAZ0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/HomeScenarios.xml.executor": "Run",
+    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/LoginScenarios.xml.executor": "Run",
+    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/RegisterationScenarios.xml.executor": "Run",
+    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/e2eScenarios.xml.executor": "Run",
+    "TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/testng.xml.executor": "Run",
+    "TestNG.TC03_RegisterationPage.executor": "Run",
+    "TestNG.TC03_RegisterationPage.validateCreationNewUser_P.executor": "Run",
+    "TestNG.TC04_e2e.validateTransaction_P.executor": "Run",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank - Copy",
+    "onboarding.tips.debug.path": "C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/main/java/com/factory/Main.java",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Shady Automation Course\Projects During Live Sessions\Sesion_3\para-bank" />
+      <recent name="C:\Shady Automation Course\Projects During Live Sessions\Sesion_3\para-bank\src\test\resources\suites" />
+      <recent name="C:\Shady Automation Course\Projects During Live Sessions\Sesion_3\para-bank\src\test" />
+      <recent name="C:\Shady Automation Course\Projects During Live Sessions\Sesion_3\para-bank\src\test\java" />
+      <recent name="C:\Shady Automation Course\Projects During Live Sessions\Sesion_3\para-bank\src\main\java" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="testcases" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/testng.xml">
+    <configuration name="C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/LoginScenarios.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="para-bank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/suites/LoginScenarios.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/RegisterationScenarios.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="para-bank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/suites/RegisterationScenarios.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/e2eScenarios.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="para-bank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/suites/e2eScenarios.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="para-bank" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TC04_e2e.validateTransaction_P" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="para-bank" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="testcases" />
+      <option name="MAIN_CLASS_NAME" value="testcases.TC04_e2e" />
+      <option name="METHOD_NAME" value="validateTransaction_P" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/testng.xml" />
+        <item itemvalue="TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/e2eScenarios.xml" />
+        <item itemvalue="TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/LoginScenarios.xml" />
+        <item itemvalue="TestNG.C:/Shady Automation Course/Projects During Live Sessions/Sesion_3/para-bank/src/test/resources/suites/RegisterationScenarios.xml" />
+        <item itemvalue="TestNG.TC04_e2e.validateTransaction_P" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d097913-2d20-4a48-b812-1105d325ec27" name="Changes" comment="" />
+      <created>1758745218846</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758745218846</updated>
+    </task>
+    <servers />
+  </component>
+</project>

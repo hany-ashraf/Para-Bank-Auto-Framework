@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <listeners>
+        <listener class-name="listeners.TestExecustionListener"/>
+    </listeners>
+    <parameter name="URL" value="https://parabank.parasoft.com/parabank/register.htm;jsessionid=D106E0E97E3414C0A3B14058177C9D1B"/>
+    <parameter name="browsername" value=""/>
+    <suite-files>
+        <suite-file path="src/test/resources/suites/RegisterationScenarios.xml"/>
+        <suite-file path="src/test/resources/suites/LoginScenarios.xml"/>
+        <suite-file path="src/test/resources/suites/e2eScenarios.xml"/>
+        <suite-file path="src/test/resources/suites/ResetAccountScenarios.xml"/>
+    </suite-files>
+</suite>
